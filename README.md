@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###  Naif
 #### artificial intelligence
-![artificial intelligence](https://i.pinimg.com/564x/c5/86/5b/c5865bc7a26453817b8112d7439ff1c4.jpg)
+![artificial intelligence](https://i.pinimg.com/564x/ee/6d/ed/ee6ded4a4723cf39dc6310bff02dc644.jpg)
 
 I am Naif, a specialist in the field of artificial intelligence, interested in the field of computer vision, developed using the Python language, and working on applications using flutter and other things.
 
