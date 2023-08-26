@@ -11,7 +11,7 @@
 
 ## Skills and experience
 * 💻 python , Java
-* 📱 Application development
+* 📱 Web development
 * 👁️🦾🦿 Computer Vision , ML , DL 
   
 
